@@ -11,6 +11,6 @@ public class Coins {
 
 		int remainderCents = cents - (quarters * 25);
 
-		System.out.println("Use " + quarters + " quarters and " + remainderCents + "cents");
+		System.out.println("Use " + quarters + " quarters and " + remainderCents + " cents");
 	}
 }
